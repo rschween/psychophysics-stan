@@ -1,5 +1,5 @@
 # psychophysics-stan
-Inferring psychophysical functions from data using Rstan applied to a "Bayesian" (MLE) cue fusion example.
+Inferring psychophysical functions from data using RStan applied to a "Bayesian" (MLE) cue fusion example.
 
 Implements modifications of models from M. D. Lee & E.-J. Wagenmakers. Bayesian Cognitive Modelling. Cambridge: Cambridge University Press. 2014., Chapter 12 for inferring the paramters of a psychometric function from data. Mainly a version of the model shown in their figure 12.5. It is applied to a ["Bayesian" / MLE cue fusion](https://doi.org/10.1038/415429a) example, but parts of it may also be informative for someone interested in fitting psychophysical functions in other experiments, especially the reparametrization of Lee & Wagenmakers' original model (see [Model versions](#model-versions)). 
 
@@ -19,7 +19,7 @@ The model used for the example is a version of Lee & Wagenmakers' group-level hi
 - CAVE: This code was generated for teaching purposes and can at best inspire, but not be used 1-to-1 for analyzing an actual experiment. Before doing research with it, at the very least, parameter identification experiments on simulated data should be conducted and resulting samples diagnosed to verify the overall robustness of sampling and the goodness of inferences. 
 
 # Thanks to ... 
-Inspiration by Benjamin Knopp and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
+Inspiration by [Benjamin Knopp](https://github.com/Lapu-Lapu) and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
 
 Contributions by Ruslan Spartakov.
 
