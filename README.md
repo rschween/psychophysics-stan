@@ -19,7 +19,7 @@ The model used for the example is a version of Lee & Wagenmakers' group-level hi
 - CAVE: This code was generated for teaching purposes and can at best inspire, but not be used 1-to-1 for analyzing an actual experiment. Before doing research with it, at the very least, parameter identification experiments on simulated data should be conducted and resulting samples diagnosed to verify the overall robustness of sampling and the goodness of inferences. 
 
 # Thanks to ... 
-Inspiration by [Benjamin Knopp](https://github.com/Lapu-Lapu) and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
+Inspiration by [Benjamin Knopp](https://github.com/Lapu-Lapu/simpletimedurationexperiment) and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
 
 Contributions by Ruslan Spartakov.
 
