@@ -20,6 +20,7 @@ The model used for the example is a version of Lee & Wagenmakers' group-level hi
 
 # Thanks to ... 
 Inspiration by Benjamin Knopp and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
+
 Contributions by Ruslan Spartakov.
 
 # Dependencies
