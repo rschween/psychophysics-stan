@@ -1,4 +1,7 @@
-# Basic data simulator
+### Basic data simulator ###
+
+### Licensing and copyright: see repository LICENSE note. ###
+
 # TODO: Adapt it to the parameter transformations of the model
 #       then, same priors can be used and we can test inference on simulated data. 
 

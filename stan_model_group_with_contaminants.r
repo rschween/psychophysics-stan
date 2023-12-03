@@ -1,3 +1,5 @@
+### Licensing and copyright: see repository LICENSE note. ###
+
 # Adapted from PsychophysicalFunction2_Stan.R in https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions
 # Figure 12.5 in Lee & Wagenmakers 2014.
 # Inputs: size subjec * comparison:

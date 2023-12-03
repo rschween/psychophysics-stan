@@ -1,3 +1,5 @@
+  ### Licensing and copyright: see repository LICENSE note. ###
+  
   # Our data constrain the model less than those of Lee & Wagenmakers did. 
   # This leads to bad mixing (see trace plots), resulting in low R_hat.
   # Here, we address this by reparametrizing the model. 

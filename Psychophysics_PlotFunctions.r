@@ -1,3 +1,5 @@
+### Licensing and copyright: see repository LICENSE note. ###
+
 ### define functions to be used in plotting ###
 initialize_plot <- function(xlim, ylim = c(0,1), title = "MAP Curve", ylab = "Proportion 'Long' Response", xlab = "Test Interval (ms)") {
   # initialize a new plot with specifications.

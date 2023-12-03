@@ -1,3 +1,5 @@
+### Licensing and copyright: see repository LICENSE note. ###
+
 model_path = paste0('results_participant_',subj)
 
 samplePosterior <- function(outcome,stan_iterations = 1000) {

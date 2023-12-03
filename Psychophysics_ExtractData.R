@@ -1,4 +1,4 @@
-# Copyright 2021-23 Raphael Schween & Ruslan Spartakov - see repo copyright notice.
+### Licensing and copyright: see repository LICENSE note. ###
 
 # output <-  list()
 check_randomizaion = function(main_data){
