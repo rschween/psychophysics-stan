@@ -22,7 +22,7 @@ The model used for the example is a version of Lee & Wagenmakers' group-level hi
 # Thanks to ... 
 Inspiration by [Benjamin Knopp](https://github.com/Lapu-Lapu/simpletimedurationexperiment) and [Stan examples on the topic](https://github.com/stan-dev/example-models/tree/master/Bayesian_Cognitive_Modeling/CaseStudies/PsychophysicalFunctions) - also see licensing!
 
-Contributions by Ruslan Spartakov.
+Contributions by [Ruslan Spartakov](https://github.com/ruslanCS/Teaching).
 
 # Dependencies
 Generated and tested on Windows 10 with RStan 2.19.3 and R version 4.0.0
